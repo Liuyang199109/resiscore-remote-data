@@ -1,0 +1,11 @@
+{
+  "qualityRecords": 5743,
+  "evidenceRecords": 5743,
+  "qualityDistricts": 11,
+  "evidenceDistricts": 11,
+  "files": 39,
+  "manifest": {
+    "bytes": 12181,
+    "sha256": "44c20fa3b599b35b4548210e5a25ac170b2121d4711d16fac557943c125ceb53"
+  }
+}

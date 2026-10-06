@@ -1,0 +1,330 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-05T16:41:12.18Z",
+  "packageVersion": "2026-10-r1",
+  "basePath": "",
+  "updatePolicy": {
+    "autoCheckDays": 30,
+    "cacheMode": "versioned-files"
+  },
+  "cities": [
+    {
+      "id": "guangzhou",
+      "name": "广州",
+      "files": [
+        {
+          "id": "quality-index",
+          "type": "quality-index",
+          "path": "v1/guangzhou/quality/index.json",
+          "bytes": 1054648,
+          "sha256": "fc8e5f33a0120487d45e39c2d0b355e5723028134477daac8de0b69c07c80cc5",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "quality-白云",
+          "type": "quality",
+          "path": "v1/guangzhou/quality/district-baiyun.json",
+          "bytes": 7502605,
+          "sha256": "7f53748f38406ae73b1eda127953779dc8e158f25f04e0aa6d5199c2b76d4beb",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "quality-从化",
+          "type": "quality",
+          "path": "v1/guangzhou/quality/district-conghua.json",
+          "bytes": 2382068,
+          "sha256": "0ed56fc770d39b15570e5ded47d491287b73f04c897acb93c9061d89b4cc9ce7",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "quality-番禺",
+          "type": "quality",
+          "path": "v1/guangzhou/quality/district-panyu.json",
+          "bytes": 8847218,
+          "sha256": "7798ea8f1c092f46a0362bbdf871435f2de15beff46aca83eeec270d689e569d",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "quality-海珠",
+          "type": "quality",
+          "path": "v1/guangzhou/quality/district-haizhu.json",
+          "bytes": 8630074,
+          "sha256": "902f80fba53c1edc19d5a9ea493f0d162957acc15ed30a7cfdf4638a10b19f82",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "quality-花都",
+          "type": "quality",
+          "path": "v1/guangzhou/quality/district-huadu.json",
+          "bytes": 6752672,
+          "sha256": "315d3285828d974d424ecf78152941f9a2dcc70f70c90af50c527529e2949c34",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "quality-黄埔",
+          "type": "quality",
+          "path": "v1/guangzhou/quality/district-huangpu.json",
+          "bytes": 3233941,
+          "sha256": "1c0e4c1262ca8a8260a9656367b2db228cac686102a1b8494f71ac37a0526ba1",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "quality-荔湾",
+          "type": "quality",
+          "path": "v1/guangzhou/quality/district-liwan.json",
+          "bytes": 4981640,
+          "sha256": "671101c9b33f50ce948806b6054ebf773c83527d38d0ee36f567cf0f32ed6cdf",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "quality-南沙",
+          "type": "quality",
+          "path": "v1/guangzhou/quality/district-nansha.json",
+          "bytes": 2428819,
+          "sha256": "7aded6e4b16782670e9b55c6226ace2ab985b363af3f577931f3633e64e882fe",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "quality-天河",
+          "type": "quality",
+          "path": "v1/guangzhou/quality/district-tianhe.json",
+          "bytes": 9207348,
+          "sha256": "18c7eed810027afcc720522eb73ec552b2052ccf05e47fa9de25c47fd2b30ec5",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "quality-越秀",
+          "type": "quality",
+          "path": "v1/guangzhou/quality/district-yuexiu.json",
+          "bytes": 8128076,
+          "sha256": "410ee57b91c489e12d08adb490c5990dacc7ada20e61c22bf2ea651320671a43",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "quality-增城",
+          "type": "quality",
+          "path": "v1/guangzhou/quality/district-zengcheng.json",
+          "bytes": 5223060,
+          "sha256": "c6d85eff211d82de4788fcf04bedaaf1baf3fea136cf4f4193598321af7f1cab",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "evidence-白云",
+          "type": "evidence",
+          "path": "v1/guangzhou/evidence/district-baiyun.json",
+          "bytes": 5958441,
+          "sha256": "7757d82b64f03ed1f352ea8b1ccf8e5caf26cf4d249fe375431178415b87bb28",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "evidence-从化",
+          "type": "evidence",
+          "path": "v1/guangzhou/evidence/district-conghua.json",
+          "bytes": 1970352,
+          "sha256": "f66d72f90b7c232b56f72b612cee10ef035968dab80d7ebac91579b6998229d1",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "evidence-番禺",
+          "type": "evidence",
+          "path": "v1/guangzhou/evidence/district-panyu.json",
+          "bytes": 7182091,
+          "sha256": "2c43fce392d3e0a96eb570261efbba5262ca834350213dfb68361a156c7497be",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "evidence-海珠",
+          "type": "evidence",
+          "path": "v1/guangzhou/evidence/district-haizhu.json",
+          "bytes": 6822711,
+          "sha256": "fd54d3cefdfa356d50842584c8fa285735d93a0201a785a63e99e83403bbc171",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "evidence-花都",
+          "type": "evidence",
+          "path": "v1/guangzhou/evidence/district-huadu.json",
+          "bytes": 5450643,
+          "sha256": "1b0fdf190f0f60fbd27decf6b1ea671ea45480e9c78c17934dbaff71fe385d50",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "evidence-黄埔",
+          "type": "evidence",
+          "path": "v1/guangzhou/evidence/district-huangpu.json",
+          "bytes": 2676215,
+          "sha256": "abcd5ad743d57075056eb559afd9a2dcd244ff94c8f4201a66281766270698dd",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "evidence-荔湾",
+          "type": "evidence",
+          "path": "v1/guangzhou/evidence/district-liwan.json",
+          "bytes": 3951379,
+          "sha256": "0c4a8e494dd286316f1678ed3cb716e1c67a8e1aaec8d6070e2a831bb67ef3d0",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "evidence-南沙",
+          "type": "evidence",
+          "path": "v1/guangzhou/evidence/district-nansha.json",
+          "bytes": 1958067,
+          "sha256": "c21b43c781819451bc0d5d134972b5d63c61e87e66cd8ab364517d62a762dbc5",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "evidence-天河",
+          "type": "evidence",
+          "path": "v1/guangzhou/evidence/district-tianhe.json",
+          "bytes": 7361111,
+          "sha256": "6aaae170fa30563de91750222d8ce01c3671fb6ecd1ee9754c34d0827689db9d",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "evidence-越秀",
+          "type": "evidence",
+          "path": "v1/guangzhou/evidence/district-yuexiu.json",
+          "bytes": 6382048,
+          "sha256": "f7b299cda9511c0a92dd3f0099c77d67c70bd0ae3d92270c60713d3640c850f9",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "evidence-增城",
+          "type": "evidence",
+          "path": "v1/guangzhou/evidence/district-zengcheng.json",
+          "bytes": 4148369,
+          "sha256": "50283be72e395f84ddfb5b5f9d5b68cd66d33c8853a9c00ecf7722f2982e065f",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "transport",
+          "type": "transport",
+          "path": "v1/guangzhou/transport/guangzhou.json",
+          "bytes": 115602,
+          "sha256": "04b99e21c38c96e022a93672ae4dbc6a41bad81c5f719bab12e28a60218fd7e9",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "amenities",
+          "type": "amenities",
+          "path": "v1/guangzhou/amenities/guangzhou.json",
+          "bytes": 2698777,
+          "sha256": "3054c504a126bcd3e9cc1565da1b4a41cdb5f0adc7278604a3af7d2550e95b1c",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "price",
+          "type": "price",
+          "path": "v1/guangzhou/price/guangzhou.json",
+          "bytes": 221289,
+          "sha256": "a0390f4f9c586ea60473b43f3e7ab1d1640718b52a6acaaba7220354f3065ca0",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "future",
+          "type": "future",
+          "path": "v1/guangzhou/future/guangzhou.json",
+          "bytes": 25684,
+          "sha256": "2e1f06c32e2efc0ed7ed2fa482a7465ca1fb6f5dcfa29bda59fe0000a3f9c236",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "school-manifest",
+          "type": "school-manifest",
+          "path": "v1/guangzhou/school/manifest.json",
+          "bytes": 8213,
+          "sha256": "7c06fd07f8b1024c9d8382aab6fd655b196b445fdb1ac56e8dc0a27f5fc09d6a",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "school-baiyun-school-district-2026",
+          "type": "school",
+          "path": "v1/guangzhou/school/baiyun-school-district-2026.json",
+          "bytes": 85755,
+          "sha256": "1d1641562645309814a74a9d0641c6453b9bed17acc5d09e3e39f47c2f9f80a6",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "school-conghua-school-district-2026",
+          "type": "school",
+          "path": "v1/guangzhou/school/conghua-school-district-2026.json",
+          "bytes": 53903,
+          "sha256": "d9d8b810a27f9fc1725503cb2b3b982b4df4982d2ac67538de4d9980b0aee1a8",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "school-haizhu-school-district-2026",
+          "type": "school",
+          "path": "v1/guangzhou/school/haizhu-school-district-2026.json",
+          "bytes": 20276,
+          "sha256": "17837143c602fb974dfbeb3b7c82e5d7f45b80f7f7d063123a6dd684de94c64d",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "school-huadu-school-district-2026",
+          "type": "school",
+          "path": "v1/guangzhou/school/huadu-school-district-2026.json",
+          "bytes": 62763,
+          "sha256": "99cd65a0b8b180c0dff22ebfc12ce75b5f1661325f7c54a07a29cc1526ba8327",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "school-huangpu-school-district-2026",
+          "type": "school",
+          "path": "v1/guangzhou/school/huangpu-school-district-2026.json",
+          "bytes": 43302,
+          "sha256": "38e69b03522d89ec999d434d31548c6094891b8c4e5cbd8172293491cbe11529",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "school-liwan-school-district-2026",
+          "type": "school",
+          "path": "v1/guangzhou/school/liwan-school-district-2026.json",
+          "bytes": 27308,
+          "sha256": "90ac3d53f9c120e0c66e48f1844384efecc9b2430dc2e0e9fa9a935fe4aa5ad7",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "school-nansha-school-district-2026",
+          "type": "school",
+          "path": "v1/guangzhou/school/nansha-school-district-2026.json",
+          "bytes": 24240,
+          "sha256": "36f511b8b02d010c12ad643dce718162c913a9fe713e7bce1073e9af2a5978bf",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "school-panyu-school-district-2026",
+          "type": "school",
+          "path": "v1/guangzhou/school/panyu-school-district-2026.json",
+          "bytes": 88172,
+          "sha256": "5b0e06fea184c768f99a22d99804588b559f2c58849b200ef62ab7150ab15a4d",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "school-tianhe-school-district-2026",
+          "type": "school",
+          "path": "v1/guangzhou/school/tianhe-school-district-2026.json",
+          "bytes": 59213,
+          "sha256": "60b1a330486b90da540e34682a272b3ffb07b8eb3fc0d0ae5dced74277e2d81f",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "school-yuexiu-school-district-2026",
+          "type": "school",
+          "path": "v1/guangzhou/school/yuexiu-school-district-2026.json",
+          "bytes": 112853,
+          "sha256": "af2ab7c36cddcf52a89693556c936ac03c9ec99e6e3a9ce04d4de5652256fcf5",
+          "version": "2026-10-r1"
+        },
+        {
+          "id": "school-zengcheng-school-district-2026",
+          "type": "school",
+          "path": "v1/guangzhou/school/zengcheng-school-district-2026.json",
+          "bytes": 7054,
+          "sha256": "1d433cc3502071f105b46ecdf5f4f6ce853a9d1aa863a1dce350cef44b93c0cc",
+          "version": "2026-10-r1"
+        }
+      ]
+    }
+  ]
+}
